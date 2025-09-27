@@ -57,12 +57,3 @@ The result is a decision surface that is **naturally more resilient** to adversa
 - On **BLAZE**, OvO+HCP significantly outperforms OvA in both clean and adversarial settings.  
 
 ---
-
-## ⚙️ Installation
-
-Clone this repository and install dependencies:
-
-```bash
-git clone https://github.com/DimPapaion/One-versus-One-DNN-Adversarial-Robustness.git
-cd One-versus-One-DNN-Adversarial-Robustness
-pip install -r requirements.txt
